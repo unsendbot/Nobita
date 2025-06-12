@@ -9,7 +9,7 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nobita_bot",
+  "BOTNAME": "nob_bot",
   "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
