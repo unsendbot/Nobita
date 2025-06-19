@@ -6,7 +6,7 @@ module.exports.config = {
     description: "mention",
     prefix: true,
     category: "user",
-    usages: "FMZ NOBITA ──",
+    usages: "",
     cooldowns: 5,
 };
 module.exports.handleEvent = function({ api, event }) {
