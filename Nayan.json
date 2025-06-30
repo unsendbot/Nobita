@@ -10,14 +10,14 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "boss_bot",
-  "PREFIX": ".",
+  "PREFIX": "/",
   "react": "😘",
   "OPERATOR": [
     "",
     "61566927465098"
   ],
   "ADMINBOT": [
-    "61566927465098",
+    "61553754531086",
     ""
   ],
   "OWNER": ["100000959749712"], 
